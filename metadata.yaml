@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35075'
     url: http://www.gutenberg.org/2009/agents/35075
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33543#The-Amphibians-and-Reptiles-of-Michoac-n-M-xico
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Reptiles and Amphibians
