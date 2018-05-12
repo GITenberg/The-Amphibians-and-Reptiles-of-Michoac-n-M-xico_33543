@@ -1,0 +1,32 @@
+_repo: The-Amphibians-and-Reptiles-of-Michoac-n-M-xico_33543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duellman, William Edward
+    alias: Duellman, William E. (William Edward)
+    birthdate: 1930
+    gutenberg_agent_id: '35075'
+    url: http://www.gutenberg.org/2009/agents/35075
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33543'
+  lccn: '62062776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Amphibians -- Mexico -- Michoacán de Ocampo'
+- !lcsh 'Reptiles -- Mexico -- Michoacán de Ocampo'
+- !lcc 'QH'
+title: The Amphibians and Reptiles of Michoacán, México
+url: http://www.gutenberg.org/ebooks/33543
